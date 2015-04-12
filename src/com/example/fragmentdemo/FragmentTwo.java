@@ -11,6 +11,9 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 public class FragmentTwo extends Fragment implements OnClickListener {
+	/**
+	 * ตฺถþธ๖ห้ฦฌ
+	 */
 
 	private Button btn;
 
